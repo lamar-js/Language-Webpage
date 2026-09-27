@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "myWork": "Mis proyectos",
+    "mySkills": "Mis habilidades",
+    "about": "Sobre mí"
+  },
+  "about": {
+    "greeting": "¡Hola! 👋😊",
+    "title": "¡Seguro que tienes ganas de conocerme!",
+    "info": [
+      "Soy Lamar, especializada en HCI",
+      "Desarrolladora de aplicaciones en formación",
+      "Interesada en el desarrollo web"
+    ]
+  },
+  "sections": {
+    "myWork": "Mis proyectos",
+    "mySkills": "Mis habilidades"
+  },
+  "projects": {
+    "basira": {
+      "title": "Basira",
+      "description": "Una plataforma de apoyo para personas con discapacidad visual"
+    },
+    "dourak": {
+      "title": "Dourak",
+      "description": "Una plataforma para gestionar y realizar seguimiento de proyectos"
+    },
+    "balaghi": {
+      "title": "Balaghi",
+      "description": "Una plataforma para gestionar reportes"
+    }
+  },
+  "skills": {
+    "projectManagement": {
+      "title": "Gestión de proyectos",
+      "description": "Organización de las etapas del proyecto y seguimiento de tareas para garantizar el progreso y alcanzar los objetivos a tiempo."
+    },
+    "uiux": {
+      "title": "UI/UX",
+      "description": "Diseño de interfaces simples y modernas centradas en la experiencia del usuario."
+    },
+    "reactNative": {
+      "title": "React Native",
+      "description": "Desarrollo de aplicaciones móviles con una interfaz y un rendimiento adecuados."
+    }
+  }
+}

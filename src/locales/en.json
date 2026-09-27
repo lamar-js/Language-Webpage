@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "myWork": "My Work",
+    "mySkills": "My Skills",
+    "about": "About Me"
+  },
+  "about": {
+    "greeting": "Hello 👋😊",
+    "title": "I'm sure you're excited to meet me!",
+    "info": [
+      "I'm Lamar, specialized in HCI",
+      "App developer in progress",
+      "Interested in web development"
+    ]
+  },
+  "sections": {
+    "myWork": "My Work",
+    "mySkills": "My Skills"
+  },
+  "projects": {
+    "basira": {
+      "title": "Basira",
+      "description": "A platform that supports people with visual disabilities"
+    },
+    "dourak": {
+      "title": "Dourak",
+      "description": "A platform for managing and tracking projects"
+    },
+    "balaghi": {
+      "title": "Balaghi",
+      "description": "A platform for managing reports"
+    }
+  },
+  "skills": {
+    "projectManagement": {
+      "title": "Project Management",
+      "description": "Organizing project stages and tracking tasks to ensure smooth progress and achieve goals on time."
+    },
+    "uiux": {
+      "title": "UI/UX",
+      "description": "Designing simple and modern interfaces with a focus on user experience."
+    },
+    "reactNative": {
+      "title": "React Native",
+      "description": "Developing mobile applications with a suitable interface and performance."
+    }
+  }
+}
