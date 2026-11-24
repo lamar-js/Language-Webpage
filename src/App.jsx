@@ -2,6 +2,8 @@
 import{useTranslation} from  "react-i18next"
 import "./App.css";
 import ProjectCard from "./components/ProjectCrad.jsx"
+import img from'./assets/about img.jpg'
+
 function App() {
 const {t,i18n } =useTranslation();
 
@@ -48,7 +50,7 @@ const handleLanguageChange = (e) => {
         </div>
         <div className="aboutimg">
 
-          <img src="about img.jpg" alt="lamar" />
+          <img src={img} alt="lamar" />
         </div>
 
 
