@@ -1,7 +1,7 @@
 
 import{useTranslation} from  "react-i18next"
 import "./App.css";
-import ProjectCard from "./components/projectCrad";
+import ProjectCard from "./components/ProjectCrad.jsx"
 function App() {
 const {t,i18n } =useTranslation();
 
